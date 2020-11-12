@@ -5,6 +5,6 @@ public class day_3 {
 //B21 is excited!!!
 
       //B21 fine
-
+//B21 finnaly
     }
 }
