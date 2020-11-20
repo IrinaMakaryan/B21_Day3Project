@@ -4,5 +4,5 @@ public class Thursday {
 //i really like his mindset
 
   //finnaly update
-
+//good job guys
 }
